@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1062
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PrimesGPU", "PrimesGPU.vcxproj", "{B65C1037-D154-4580-AB05-3CD22A722B68}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B65C1037-D154-4580-AB05-3CD22A722B68}.Debug|x64.ActiveCfg = Debug|x64
+		{B65C1037-D154-4580-AB05-3CD22A722B68}.Debug|x64.Build.0 = Debug|x64
+		{B65C1037-D154-4580-AB05-3CD22A722B68}.Release|x64.ActiveCfg = Release|x64
+		{B65C1037-D154-4580-AB05-3CD22A722B68}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9F446E27-F03F-432F-88D2-CDA2E3B784FB}
+	EndGlobalSection
+EndGlobal
